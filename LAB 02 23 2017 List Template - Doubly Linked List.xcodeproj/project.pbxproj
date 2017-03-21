@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E2AAFE181E81D0650080A487 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2AAFE171E81D0650080A487 /* main.cpp */; };
+		E2AAFE201E81D4210080A487 /* DoublyLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2AAFE1E1E81D4210080A487 /* DoublyLinkedList.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		E2AAFE141E81D0650080A487 /* LAB 02 23 2017 List Template - Doubly Linked List */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LAB 02 23 2017 List Template - Doubly Linked List"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2AAFE171E81D0650080A487 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E2AAFE1E1E81D4210080A487 /* DoublyLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DoublyLinkedList.cpp; sourceTree = "<group>"; };
+		E2AAFE1F1E81D4210080A487 /* DoublyLinkedListH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoublyLinkedListH.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				E2AAFE171E81D0650080A487 /* main.cpp */,
+				E2AAFE1E1E81D4210080A487 /* DoublyLinkedList.cpp */,
+				E2AAFE1F1E81D4210080A487 /* DoublyLinkedListH.h */,
 			);
 			path = "LAB 02 23 2017 List Template - Doubly Linked List";
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2AAFE181E81D0650080A487 /* main.cpp in Sources */,
+				E2AAFE201E81D4210080A487 /* DoublyLinkedList.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
