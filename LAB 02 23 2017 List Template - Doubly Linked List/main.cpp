@@ -13,7 +13,7 @@ using namespace std;
 
 int main() {
 
-    std::cout << "Doubly Linked List Template!\n";
+    std::cout << "Doubly Linked List Template\n";
     
     srand(static_cast<int> (time(0)));
     
