@@ -6,6 +6,5 @@
 //  Copyright © 2017 COMP235. All rights reserved.
 //
 
-#include "DoublyLinkedListH.h"
-
+#include "doublyLinkedListH.h"
 
